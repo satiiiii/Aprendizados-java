@@ -8,7 +8,6 @@ Aqui eu salvo exercícios, anotações e pequenos projetos que desenvolvo enquan
 
 O repositório está organizado da seguinte forma:
 
-- **conceitos/** → Anotações e explicações sobre conceitos importantes da linguagem.
 - **exercicios/** → Exercícios práticos desenvolvidos durante os estudos.
 
 ## 🎯 Objetivo
